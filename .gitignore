@@ -1,0 +1,7 @@
+public/*
+!public/Makefile
+utils/*
+!utils/Makefile
+!utils/hcc.rb
+!utils/home.gif
+
