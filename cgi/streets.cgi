@@ -21,7 +21,7 @@ def index()
   style='border:dotted 1pt; padding:10px;'>
 <p>学生番号 <input name="sid">半角数字</p>
 <p>ファイル <input class='btn' name="file" type="file"></p>
-<p>save as <input name="save_as">日本語じゃない方がいい、拡張子を変えないように。
+<p>save as <input name="save_as">日本語ファイル名は不可、拡張子を変えないように。
 カラの時は選んだファイルと同じ名前。  </p>
 <p><input class='btn btn-primary' type="submit" value="アップロード"></p>
 </form>
