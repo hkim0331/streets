@@ -25,6 +25,14 @@ def index()
 カラの時は選んだファイルと同じ名前。  </p>
 <p><input class='btn btn-primary' type="submit" value="アップロード"></p>
 </form>
+
+<ul>
+<li>まち図の家の絵は home.gif</li>
+<li>自分の家の内容は index.html</li>
+<li>自分ちのホームページに絵を貼り込むときは
+index.html にその絵のファイル名をプログラムし、
+index.html と絵のファイルを忘れずにアップロード。</li>
+</ul>
 EOF
 end
 
