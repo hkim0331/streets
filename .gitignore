@@ -1,7 +1,4 @@
 public/*
 !public/Makefile
-utils/*
-!utils/Makefile
-!utils/hcc.rb
-!utils/home.gif
-
+!public/*.html
+!public/roads.png
