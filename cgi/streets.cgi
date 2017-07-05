@@ -111,10 +111,14 @@ EOR
 ensure
   print <<EOF
 <p>
-<a href="/cgi/streets.cgi">back</a>
+<a href="/cgi/streets.cgi">upload</a>
+|
+<a href="http://streets.melt.kyutech.ac.jp/">まち</a>
+|
+<a href="http://gimeo.melt.kyutech.ac.jp/">gimeo</a>
 </p>
 <hr>
-hkimura, 2017-05-22.
+hkimura, 2017-07-05.
 </div>
 </body>
 EOF
